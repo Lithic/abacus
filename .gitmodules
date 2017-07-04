@@ -1,0 +1,3 @@
+[submodule "dependencies/sentinel"]
+	path = dependencies/sentinel
+	url = git@github.com:Lithic/sentinel.git
